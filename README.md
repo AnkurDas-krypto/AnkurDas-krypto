@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkurDas-krypto
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep Learning and NLP
-- 💞️ I’m looking to collaborate on any Machine Learning Internships
+- 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning Internships
 - 📫 How to reach me ...   CONTACT ME ON ankurdas8017@gmail.com
 
 <!---
