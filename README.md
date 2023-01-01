@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkurDas-krypto
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning Internships
+- 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning roles
 - 📫 How to reach me ...   CONTACT ME ON ankurdas8017@gmail.com
 
 <!---
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurDas-krypto&theme=great-gatsby&layout=compact&langs_count=10" />
 </a>
 <a href="(https://github.com/AnkurDas-krypto/)">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Dhananjay's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Ankur's github stats"/>
 </a>
 
 <!-- a normal html comment -->
