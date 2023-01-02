@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </br></br>
 <a href="(https://github.com/AnkurDas-krypto/)">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Ankur's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Ankur github stats"/>
 </a>
 
 <!-- a normal html comment -->
