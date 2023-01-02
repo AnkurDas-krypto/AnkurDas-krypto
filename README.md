@@ -11,10 +11,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkurDas&label=Views&color=blueviolet&style=plastic" alt="AnkurDas" /> </p>
 
 
-<a href="https://github.com/DhananjayNarayan">
-  <img align="left" alt="Dhananjay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 **Languages and Tools:**  
 
 <img align="left" alt="Python" title="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
