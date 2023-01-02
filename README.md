@@ -17,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
 <img align="left" alt="Python" title="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/AnkurDas-krypto/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurDas-krypto&theme=great-gatsby&layout=compact&langs_count=10" />
 </a>
-<br/>
+</br></br>
 <a href="(https://github.com/AnkurDas-krypto/)">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Ankur's github stats"/>
 </a>
