@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkurDas&label=Views&color=blueviolet&style=plastic" alt="AnkurDas" /> </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur"/>
 
 **Languages and Tools:**  
 
@@ -26,11 +25,17 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
-<img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Scikit-Learn" title="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" />
+<img align="left" alt="Flask" title="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 
-<img align="left" alt="MySQL" title="MySQL" width="26px" src="![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)" />
+<img align="left" alt="AWS" title="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+
+<img align="left" alt="Azure" title="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
+
+<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br><br>
 
@@ -40,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 </br></br>
 <a href="(https://github.com/AnkurDas-krypto/)">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkurDas-krypto&show_icons=true&theme=great-gatsby&line_height=27" alt="Ankur github stats"/>
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur"/>
 </a>
 
 <!-- a normal html comment -->
