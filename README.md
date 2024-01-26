@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkurDas-krypto
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on any Machine Learning or Deep Learning roles
+- 👀 I’m interested in Python Fullstack, Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on any Python Fullstack, Machine Learning or Deep Learning roles
 - 📫 How to reach me ...   CONTACT ME ON ankurdas0398@gmail.com
 
 <!---
